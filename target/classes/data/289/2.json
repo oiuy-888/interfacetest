@@ -1,0 +1,22 @@
+{
+  "url":"/data-service/router/telecom/identity/3mo/t1",
+  "method":"get",
+  "case":
+    {
+      "parameter":{
+        "account": "apilishua",
+        "name": "朱斌",
+        "cid":"330324199302103692",
+        "cidType":"1",
+        "mobile":"13092260599",
+        "reqId":"qwe123",
+        "sid":"32rd232f4",
+        "mobileType":"",
+        "sign":"account,cid,mobile,name,reqId"
+      },
+      "result":{
+        "resCode":"1001",
+        "resMsg": "账号不存在或被禁用"
+      }
+    }
+}

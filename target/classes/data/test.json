@@ -1,0 +1,13 @@
+{
+  "ip":"http://192.168.100.111:7080",
+  "user":[
+    {
+      "account":"apilishuai",
+      "key":"b3fbd45c29ec0561"
+    },
+    {
+      "account":"api-wangjia",
+      "key":"b041eaef4969c1d3"
+    }
+  ]
+}

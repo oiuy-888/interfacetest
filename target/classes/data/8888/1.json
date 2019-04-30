@@ -1,0 +1,18 @@
+{
+  "url":"/data-service/customized/01",
+  "method":"post",
+  "case":
+  {
+    "parameter":{
+      "account":"apilishuai",
+      "serviceNo":"1005",
+      "reqTid":"1234567890",
+      "subReqTid":"567890",
+      "params":"{\"name\":\"孙建云\",\"cid\":\"360121199011203111\",\"mobile\":\"15500797690\"}"
+    },
+    "result":{
+      "resCode":"0000",
+      "resMsg": "处理成功"
+    }
+  }
+}

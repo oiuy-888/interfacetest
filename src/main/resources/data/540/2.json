@@ -1,0 +1,21 @@
+{
+  "url":"/data-service/router/telecom/usetime",
+  "method":"get",
+  "case":
+    {
+      "parameter":{
+        "account": "apilishuai",
+        "name": "赵永",
+        "cid":"370811198804184056",
+        "mobile":"15031226766",
+        "reqId":"ewfcewe",
+        "sign":"account,mobile,reqId"
+      },
+      "result":{
+        "resCode":"0000",
+        "resMsg":"处理成功",
+        "data.mobileOperator": "3",
+        "data.inUseTime": "3"
+      }
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "url":"/data-service/router/telecom/usetime",
+  "method":"get",
+  "case":
+    {
+      "parameter":{
+        "account": "apilishuai",
+        "name": "1@#永asf",
+        "cid":"370811198804184056",
+        "mobile":"15031226766",
+        "reqId":"ewfcewe",
+        "sign":"account,mobile,reqId"
+      },
+      "result":{
+        "resCode":"1012",
+        "resMsg":"参数为空或格式错误"
+      }
+    }
+}
