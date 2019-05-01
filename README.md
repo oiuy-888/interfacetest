@@ -9,6 +9,7 @@ allure serve allure-results
 
 2.测试用例在resource目录下添加
 如接口289，用例数据为1.json、2.json等
+
 {
   "url":"/data-service/router/telecom/identity/3mo/t1",
   "method":"get",
@@ -35,6 +36,7 @@ allure serve allure-results
 
 3.测试执行脚本序号在testcase.csv中添加
 添加形式为
+
 环境, 用例
 test,540/5
 test,289/1
